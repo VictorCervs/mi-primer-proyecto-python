@@ -1,0 +1,1 @@
+print("¡Hola, mundo desde mi Mac, futuro Full Stack Senior!")
